@@ -27,7 +27,7 @@ class Complex:
 
 
 # Example usage
-r1=int(input("Enter the real part of first number: ")) #input real part of 1st number
+r1=int(input("Enter the real part of first number: ")) #input Real part of 1st number
 i1=int(input("Enter the imaginary part of first number: ")) #input imaginary part of 1st number
 r2=int(input("Enter the real part of second number: ")) #input real part of 2nd number
 i2=int(input("Enter the imaginary part of second number: ")) #input imaginary part of 2nd number.
