@@ -36,7 +36,7 @@ __mul__(self, C2): Overloads the * operator to multiply two complex numbers.
 
 __truediv__(self, C2): Overloads the / operator to divide one complex number by another, with error handling for division by zero.
 
-__str__(self): Provides a string representation of the complex number in the form of "a + bi".
+__str__(self): Provides a string representation of the Complex Number in the form of "a + bi".
 
 **Example Usage**
 The following code demonstrates how to use the Complex class to perform arithmetic operations on complex numbers:
