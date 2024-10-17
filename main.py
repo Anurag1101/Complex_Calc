@@ -22,7 +22,7 @@ class Complex:
         imag_part = (self.i * C2.r - self.r * C2.i) / denom  # b*c - a*d
         return Complex(real_part, imag_part)
 
-    def __str__(self):  # Return string dunder function of values
+    def __str__(self):  # Return String dunder function of values
         return f"{self.r} + {self.i}i"
 
 
