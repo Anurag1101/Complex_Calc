@@ -14,17 +14,19 @@ This repository contains a Python implementation of a `Complex` number calculato
 
 - **User Input:** The program allows users to input real and imaginary parts for complex numbers.
 
-**Implementation Details**:
+## Implementation Details:
 
-**Class Complex**: The core class of this implementation is the Complex class, which encapsulates the properties and methods associated with complex numbers.
+### Class Complex: 
 
-**Attributes**:
+The core class of this implementation is the Complex class, which encapsulates the properties and methods associated with complex numbers.
 
-**r:** Real part of the complex number.
+### Attributes:
 
-**i:** Imaginary part of the complex number.
+- **r:** Real part of the complex number.
 
-**Methods**:
+- **i:** Imaginary part of the complex number.
+
+## Methods:
 
 __init__(self, r, i): Constructor that initializes the real and imaginary parts.
 
