@@ -71,10 +71,10 @@ The division method raises a `ValueError` if the **denominator is zero**, ensuri
     git clone https://github.com/USERNAME/complex_calc.git
 
 
-**Contribution**:
+## Contribution:
 
 Contributions are welcome! Please open an issue or submit a pull request if you have suggestions for improvements or new features.
 
-**License**:
+## License:
 
-This project is licensed under the MIT License.
+This project is licensed under the `MIT` License.
