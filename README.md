@@ -41,7 +41,7 @@ The core class of this implementation is the Complex class, which encapsulates t
 - __str__(self): Provides a string representation of the Complex Number in the form of "a + bi".
 
 
-# Example usage
+## Example usage
 
 The following code demonstrates how to use the Complex class to perform arithmetic operations on complex numbers:
 
@@ -56,9 +56,9 @@ The following code demonstrates how to use the Complex class to perform arithmet
     print(num1 * num2)   # Expected output: Product of the two complex numbers
     print(num1 / num2)   # Expected output: Quotient of the two complex numbers
 
-**Error Handling**:
+## Error Handling:
 
-The division method raises a ValueError if the denominator is zero, ensuring that the program does not attempt to divide by zero, which would result in an undefined operation.
+The division method raises a `ValueError` if the **denominator is zero**, ensuring that the program does not attempt to divide by zero, which would result in an undefined operation.
 
 **Requirements**: **Python 3.x**
 
