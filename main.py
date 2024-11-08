@@ -34,7 +34,7 @@ i2=int(input("Enter the imaginary part of second number: ")) #input Imaginary pa
 num1 = Complex(r1, i1)
 num2 = Complex(r2, i2)
 
-print(num1 + num2)   # Expected output: 7 + 9i
-print(num1 - num2)   # Expected output: 1 + 1i
-print(num1 * num2)   # Expected output: -8 + 31i
-print(num1 / num2)   # Expected output: 1.28 + -0.04i 
+print(f"Sum = {num1 + num2}")   
+print(f"Difference = {num1 - num2}")  
+print(f"Product = {num1 * num2}")   
+print(f"Division = {num1 / num2}")   
