@@ -1,18 +1,18 @@
 # Complex Calculator
 
-This repository contains a Python implementation of a complex number calculator that supports various arithmetic operations, including addition, subtraction, multiplication, and division of complex numbers. The implementation makes use of object-oriented programming principles and demonstrates the use of dunder (double underscore(__)) methods to overload operators for complex number manipulation.
+This repository contains a Python implementation of a `Complex` number calculator that supports various arithmetic operations, including `addition`, `subtraction`, `multiplication`, and `division` of `Complex` numbers. The implementation makes use of **Object-Oriented Programming Principles** and demonstrates the use of `dunder` (double underscore(__)) methods to overload operators for `Complex` number manipulation.
 
-**Features**:
+## Features:
 
-**Addition:** Add two complex numbers.
+- **Addition:** Add two complex numbers.
 
-**Subtraction:** Subtract one complex number from another.
+- **Subtraction:** Subtract one complex number from another.
 
-**Multiplication:** Multiply two complex numbers.
+- **Multiplication:** Multiply two complex numbers.
 
-**Division:** Divide one complex number by another with error handling for division by zero.
+- **Division:** Divide one complex number by another with error handling for division by zero.
 
-**User Input:** The program allows users to input real and imaginary parts for complex numbers.
+- **User Input:** The program allows users to input real and imaginary parts for complex numbers.
 
 **Implementation Details**:
 
