@@ -28,17 +28,17 @@ The core class of this implementation is the Complex class, which encapsulates t
 
 ## Methods:
 
-__init__(self, r, i): Constructor that initializes the real and imaginary parts.
+- __init__(self, r, i): Constructor that initializes the real and imaginary parts.
 
-__add__(self, C2): Overloads the + operator to add two complex numbers.
+- __add__(self, C2): Overloads the + operator to add two complex numbers.
 
-__sub__(self, C2): Overloads the - operator to subtract one complex number from another.
+- __sub__(self, C2): Overloads the - operator to subtract one complex number from another.
 
-__mul__(self, C2): Overloads the * operator to multiply two complex numbers.
+- __mul__(self, C2): Overloads the * operator to multiply two complex numbers.
 
-__truediv__(self, C2): Overloads the / operator to divide one complex number by another, with error handling for division by zero.
+- __truediv__(self, C2): Overloads the / operator to divide one complex number by another, with error handling for division by zero.
 
-__str__(self): Provides a string representation of the Complex Number in the form of "a + bi".
+- __str__(self): Provides a string representation of the Complex Number in the form of "a + bi".
 
 **Example Usage**
 The following code demonstrates how to use the Complex class to perform arithmetic operations on complex numbers:
