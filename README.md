@@ -60,15 +60,16 @@ The following code demonstrates how to use the Complex class to perform arithmet
 
 The division method raises a `ValueError` if the **denominator is zero**, ensuring that the program does not attempt to divide by zero, which would result in an undefined operation.
 
-**Requirements**: **Python 3.x**
+## Requirements: 
 
-**Installation**:
+### Python 3.x
 
-**Clone this repository:**   git clone https://github.com/USERNAME/complex_calc.git
+## Installation:
 
-**Navigate to the project directory:**  cd complex_calc
+### Clone this repository:  
 
-**Run the program:**  python Complex_Calc.py
+    git clone https://github.com/USERNAME/complex_calc.git
+
 
 **Contribution**:
 
