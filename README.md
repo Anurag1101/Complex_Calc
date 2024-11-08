@@ -40,29 +40,20 @@ The core class of this implementation is the Complex class, which encapsulates t
 
 - __str__(self): Provides a string representation of the Complex Number in the form of "a + bi".
 
-**Example Usage**
-The following code demonstrates how to use the Complex class to perform arithmetic operations on complex numbers:
+
 # Example usage
 
-r1 = int(input("Enter the real part of first number: "))  # Input real part of 1st number
-
-i1 = int(input("Enter the imaginary part of first number: "))  # Input imaginary part of 1st number
-
-r2 = int(input("Enter the real part of second number: "))  # Input real part of 2nd number
-
-i2 = int(input("Enter the imaginary part of second number: "))  # Input imaginary part of 2nd number
-
-num1 = Complex(r1, i1)
-
-num2 = Complex(r2, i2)
-
-print(num1 + num2)   # Expected output: Sum of the two complex numbers
-
-print(num1 - num2)   # Expected output: Difference of the two complex numbers
-
-print(num1 * num2)   # Expected output: Product of the two complex numbers
-
-print(num1 / num2)   # Expected output: Quotient of the two complex numbers
+The following code demonstrates how to use the Complex class to perform arithmetic operations on complex numbers:
+    r1 = int(input("Enter the real part of first number: "))  # Input real part of 1st number
+    i1 = int(input("Enter the imaginary part of first number: "))  # Input imaginary part of 1st number
+    r2 = int(input("Enter the real part of second number: "))  # Input real part of 2nd number
+    i2 = int(input("Enter the imaginary part of second number: "))  # Input imaginary part of 2nd number
+    num1 = Complex(r1, i1)
+    num2 = Complex(r2, i2)
+    print(num1 + num2)   # Expected output: Sum of the two complex numbers
+    print(num1 - num2)   # Expected output: Difference of the two complex numbers
+    print(num1 * num2)   # Expected output: Product of the two complex numbers
+    print(num1 / num2)   # Expected output: Quotient of the two complex numbers
 
 **Error Handling**:
 
